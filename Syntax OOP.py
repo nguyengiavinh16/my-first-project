@@ -26,6 +26,7 @@ car1.run()
 print(car1.num)
 car1.get_info_engine()
 
-Mẹc = Mercedes('Trắng', 'v8', True)
-print(Mẹc.num)
-Mẹc.run()
+mer = Mercedes('Trắng', 'v8', True)
+print(mer.num)
+
+mer.run()
