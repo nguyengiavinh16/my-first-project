@@ -1,3 +1,5 @@
+#Hú
+
 class Car():
     def __init__(self, color, engine):
         self.num = 4
@@ -30,3 +32,4 @@ mer = Mercedes('Trắng', 'v8', True)
 print(mer.num)
 
 mer.run()
+
